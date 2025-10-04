@@ -35,8 +35,3 @@ El documento HTML está dividido en secciones lógicas que reflejan el contenido
 * **Alejandrina Díaz Perera**
 * AnnieDizPea
 
----
-
-## ©️ Copyright
-
-© [Año Actual]. Todos los derechos reservados.
