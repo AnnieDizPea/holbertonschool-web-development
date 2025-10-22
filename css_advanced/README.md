@@ -22,9 +22,10 @@ Al completar este proyecto, deberé ser capaz de:
 
 El diseño de referencia para este proyecto fue proporcionado por Holberton School a través de Figma.
 
-* **Enlace al Diseño:** `[PEGA AQUÍ EL ENLACE A TU DISEÑO DE FIGMA]`
+* **Enlace al Diseño:** `https://www.figma.com/design/nPRzzYyTI9QV64YE0ssXiC/Homepage--Copy-?node-id=3558-0&p=f&t=QCOU1m4sRCKJd7MX-0'
 
 ## Autor
 
 * **AnnieDizPea** - [https://github.com/AnnieDizPea](https://github.com/AnnieDizPea)
   
+
