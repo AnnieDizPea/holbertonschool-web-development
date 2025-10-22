@@ -1,10 +1,9 @@
-# Proyecto CSS Avanzado - Landing Page "Smile School"
+# 🧿Proyecto CSS Avanzado - Landing Page "Smile School"
 
 Este proyecto es la segunda fase del currículo de desarrollo web de Holberton School, enfocado en aplicar estilos CSS a una página web semántica.
 
 El objetivo principal es tomar la estructura HTML pura creada en el proyecto `html_advanced` y aplicar técnicas de CSS para que coincida exactamente con el diseño profesional proporcionado en Figma.
-
-## Objetivos de Aprendizaje
+## 🔍Objetivos de Aprendizaje
 
 Al completar este proyecto, deberé ser capaz de:
 
@@ -28,4 +27,5 @@ El diseño de referencia para este proyecto fue proporcionado por Holberton Scho
 
 * **AnnieDizPea** - [https://github.com/AnnieDizPea](https://github.com/AnnieDizPea)
   
+
 
